@@ -1,4 +1,4 @@
-package com.example.Spring_Greetings_App;
+package com.example.Spring_Greeting_app;
 
 import org.springframework.boot.test.context.TestConfiguration;
 
